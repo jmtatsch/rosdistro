@@ -391,6 +391,10 @@ libvtk-qt:
   osx:
     homebrew:
       depends: [libvtk]
+libwebp-dev:
+  osx:
+    homebrew:
+      depends: [webp]
 libx11:
   osx:
     homebrew:
