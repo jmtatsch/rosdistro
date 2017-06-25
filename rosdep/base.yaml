@@ -2910,6 +2910,11 @@ libvtk-qt:
     xenial: [libvtk6-qt-dev]
     yakkety: [libvtk6-qt-dev]
     zesty: [libvtk6-qt-dev]
+webp:
+  debian: [libwebp]
+  fedora: [libwebp]
+  gentoo: [media-libs/libwebp]
+  ubuntu: [libwebp]
 libwebp-dev:
   debian: [libwebp-dev]
   fedora: [libwebp-devel]
