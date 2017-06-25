@@ -275,6 +275,10 @@ libpgm:
   osx:
     homebrew:
       packages: [libpgm]
+libpng-dev:
+  osx:
+    homebrew:
+      packages: [libpng]
 libpng12-dev:
   osx:
     homebrew:
@@ -604,6 +608,10 @@ python-qt5-bindings-gl:
   osx:
     homebrew:
       packages: [pyqt5, sip]
+python-qt5-bindings-webkit:
+  osx:
+    homebrew:
+      packages: [pyqt5, sip]
 python-rospkg:
   osx:
     pip:
@@ -730,6 +738,10 @@ tinyxml:
   osx:
     homebrew:
       packages: [tinyxml]
+tinyxml2:
+  osx:
+    homebrew:
+      packages: [tinyxml2]
 unzip:
   osx:
     homebrew:
