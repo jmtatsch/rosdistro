@@ -750,6 +750,10 @@ uuid:
   osx:
     homebrew:
       packages: [ossp-uuid]
+webp:
+  osx:
+    homebrew:
+      packages: [webp]
 wxpython:
   osx:
     homebrew:
